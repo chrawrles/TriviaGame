@@ -1,0 +1,23 @@
+.jumbotron {
+  height: 700px;
+  color:red;
+  background-color: yellow;
+}
+
+.main-button-container {
+  margin-top: 175px;
+  max-width: 600px;
+}
+
+.answer:hover {
+  background: orange;
+}
+
+.answer {
+  padding-top: 10px;
+  height: 50px;
+  color: red;
+  padding-left: 15px;
+  background-color: white;
+  border-radius: 5px;
+}
